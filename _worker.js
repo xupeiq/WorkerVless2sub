@@ -7,6 +7,9 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'996.xucc.cc#电信线路',
+	'669.xucc.cc#移动线路',
+	'369.xucc.cc#惠州移动线路',
 ];
 
 // 设置优选地址api接口
